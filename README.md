@@ -22,7 +22,7 @@
 
 `other..`
 
-[![My Skills](https://skillicons.dev/icons?i=tailwind,godot,vite,postgresql,prisma,mysql,obsidian)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=tailwind,godot,vite,postgresql,prisma,mysql,obsidian,arduino)](https://skillicons.dev) 
 
 
 
