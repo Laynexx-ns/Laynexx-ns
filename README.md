@@ -47,9 +47,5 @@
 
 
 
-![изображение](https://github.com/user-attachments/assets/91f762d0-94ad-4b5c-93ff-43c1a87d3508)
-![изображение](https://github.com/user-attachments/assets/11df17bc-b495-48f8-968f-87a9c20d78d3)
-
-
 
 i'm sorry bro, but i don't know what is 'grass'
