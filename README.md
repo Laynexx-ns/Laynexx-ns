@@ -13,7 +13,7 @@
 `languages` 
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,go,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,go,)](https://skillicons.dev)
 
 `frameworks`
 
