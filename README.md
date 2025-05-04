@@ -15,10 +15,7 @@ fields_of_interests:
     "Game Development",
     "DevOps",
   ]
-technical_background:
-  [
-    "Full Stack Developer",
-  ]
+
   
 currently_learning: ["CI/CD", "trying myself in DevOps", "GSAP"]
 2025 Goals: ["Create Coalidraw", "Finish LMS startup"]
