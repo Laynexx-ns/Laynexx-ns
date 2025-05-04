@@ -1,51 +1,59 @@
-# Hey! I'm laynexx
-
-
-![2025-03-1100-26-16-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/720a76e4-4ad0-4444-8fa4-a63a197e1e5c)
 
 
 
+# silly development enjoyer
 
 
-# My skill-stack
+```yml
+name: laynexx/bezdarr
+located_in: Russia
 
-
-`languages` 
-
-
-[![My Skills](https://skillicons.dev/icons?i=js,ts,go,)](https://skillicons.dev)
-
-`frameworks`
-
-[![My Skills](https://skillicons.dev/icons?i=react,nuxt,vue,nextjs)](https://skillicons.dev) 
-
-
-`other..`
-
-[![My Skills](https://skillicons.dev/icons?i=tailwind,godot,vite,postgresql,prisma,mysql,obsidian,arduino)](https://skillicons.dev) 
-
-
-
-`version controll systems`
-
-[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab)](https://skillicons.dev) 
-
-
-`favorite IDEs`
-
-[![My Skills](https://skillicons.dev/icons?i=neovim,webstorm)](https://skillicons.dev) 
-
-
-`current and favorite OS`
-
-![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
-
-
-`technologies that i want to learn soon`
-
-[![My Skills](https://skillicons.dev/icons?i=kubernetes,lua,haskell,elysia,rust,tauri,threejs)](https://skillicons.dev) 
+fields_of_interests:
+  [
+    "Web Development",
+    "UI/UX",
+    "Game Development",
+    "DevOps",
+  ]
+technical_background:
+  [
+    "Full Stack Developer",
+  ]
+  
+currently_learning: ["CI/CD", "trying myself in DevOps", "GSAP"]
+2025 Goals: ["Create Coalidraw", "Finish LMS startup"]
+hobbies: ["Drawing", "Walking in nature", "Listening music", "Watching anime", "Reflect on philosophical topics"]
 
 
 
+く__,.ヘヽ.　　　　/　,ー､ 〉
+　　　　　＼ ', !-─‐-i　/　/´
+　　　 　 ／｀ｰ'　　　 L/／｀ヽ､
+　　 　 /　 ／,　 /|　 ,　 ,　　　 ',
+　　　ｲ 　/ /-‐/　ｉ　L_ ﾊ ヽ!　 i
+　　　 ﾚ ﾍ 7ｲ｀ﾄ　 ﾚ'ｧ-ﾄ､!ハ|　 |
+　　　　 !,/7 '0'　　 ´0iソ| 　 |　　　
+　　　　 |.从"　　_　　 ,,,, / |./ 　 |
+　　　　 ﾚ'| i＞.､,,__　_,.イ / 　.i 　|                   
+　　　　　 ﾚ'| | / k_７_/ﾚ'ヽ,　ﾊ.　|        
+　　　　　　 | |/i 〈|/　 i　,.ﾍ |　i　|
+　　　　　　.|/ /　ｉ： 　 ﾍ!　　＼　|
+　　　 　 　 kヽ>､ﾊ 　 _,.ﾍ､ 　 /､!
+　　　　　　 !'〈//｀Ｔ´', ＼ ｀'7'ｰr'
+　　　　　　 ﾚ'ヽL__|___i,___,ンﾚ|ノ
+　　　　　 　　　ﾄ-,/　|___./
+　　　　　 　　　'ｰ'　　!_,.: 
 
-i'm sorry bro, but i don't know what is 'grass'
+
+```
+
+# My skills 📘
+
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,go,cs,react,nuxt,vue,nextjs,tailwind,pinia,docker,godot,vite,postgresql,prisma,mysql,nginx,obsidian,arduino,redis,sass,git,github,gitlab,neovim,webstorm,figma)](https://skillicons.dev) 
+
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Laynexx-ns&theme=catppuccin-mocha&hide_border=true&card_width=1000&card_height=200)](https://git.io/streak-stats)
+
+
