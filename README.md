@@ -47,11 +47,7 @@ hobbies: ["Drawing", "Walking in nature", "Listening music", "Watching anime", "
 
 # My skills 📘
 
+well, i'll add them soon
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,go,cs,react,nuxt,vue,nextjs,tailwind,pinia,docker,godot,vite,postgresql,prisma,mysql,nginx,obsidian,arduino,redis,sass,git,github,gitlab,neovim,webstorm,figma)](https://skillicons.dev) 
-
-
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Laynexx-ns&theme=catppuccin-mocha&hide_border=true&card_width=1000&card_height=200)](https://git.io/streak-stats)
 
 
