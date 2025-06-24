@@ -14,6 +14,7 @@ fields_of_interests:
     "UI/UX",
     "Game Development",
     "DevOps",
+    "ML"
   ]
 
   
