@@ -8,6 +8,8 @@
 name: laynexx/bezdarr
 located_in: Russia
 
+winner_at: ["cu bootcamp 2025", "singulatity.family blockchain hackathon 2025"]
+
 fields_of_interests:
   [
     "Web Development",
@@ -17,10 +19,18 @@ fields_of_interests:
     "ML"
   ]
 
-  
-currently_learning: ["CI/CD", "trying myself in DevOps", "linear algebra", "elixir", "Blockchain development"]
+currently_learning: 
+[  
+  "CI/CD",
+  "trying myself in DevOps",
+  "linear algebra",
+  "elixir",
+  "Blockchain development"
+]
 2025 Goals: ["Create Coalidraw", "Finish LMS startup"]
 hobbies: ["Drawing", "Walking in nature", "Listening music", "Watching anime", "Reflect on philosophical topics"]
+
+
 
 
 
