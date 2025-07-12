@@ -18,7 +18,7 @@ fields_of_interests:
   ]
 
   
-currently_learning: ["CI/CD", "trying myself in DevOps", "linear algebra", "elixir", "closing knowledge gaps"]
+currently_learning: ["CI/CD", "trying myself in DevOps", "linear algebra", "elixir", "Blockchain development"]
 2025 Goals: ["Create Coalidraw", "Finish LMS startup"]
 hobbies: ["Drawing", "Walking in nature", "Listening music", "Watching anime", "Reflect on philosophical topics"]
 
